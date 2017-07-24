@@ -1,7 +1,7 @@
 #HSLIDE
 <!-- .slide: data-autoslide="10000" -->
 
-![LOGO](gitpitch/images/AThumbCut_160531-223314.jpg)
+![LOGO](https://photos.google.com/photo/AF1QipNTUkiIynPO-kXUuzFHaTFO9MzHLEXj-SbpA8AO)
 
 #### Get the word out
 <br>
