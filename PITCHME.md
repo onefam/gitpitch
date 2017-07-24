@@ -1,7 +1,7 @@
 #HSLIDE
 <!-- .slide: data-autoslide="10000" -->
 
-![LOGO](https://photos.google.com/photo/AF1QipNTUkiIynPO-kXUuzFHaTFO9MzHLEXj-SbpA8AO)
+![LOGO](http://urltodrive.softgateon.net/?state=%7B%22ids%22:%5B%220BwG5pvXBQSwAem11eVdPc2l4bG8%22%5D,%22action%22:%22open%22,%22userId%22:%22100612594577517327742%22%7D)
 
 #### Get the word out
 <br>
